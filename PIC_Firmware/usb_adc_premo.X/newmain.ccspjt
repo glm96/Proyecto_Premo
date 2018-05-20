@@ -1,0 +1,18 @@
+[PROJECT]
+Target=build\default\production\newmain.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.015
+Compiler=PCH
+[Target Data]
+FileList=build\default\production\newmain.c
+[Directories]
+Include=
+[build\default\production\newmain.c]
+Type=4
+[mru-list]
+1=build\default\production\newmain.c
+[build\default\debug\newmain.c]
+Type=4
+[Units]
+Count=1
+1=newmain (main)

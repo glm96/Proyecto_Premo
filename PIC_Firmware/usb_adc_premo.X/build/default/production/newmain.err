@@ -1,0 +1,10 @@
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\pic18_usb.c:643:1:  Warning#203  Condition always TRUE
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:58:5:  Warning#216  Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:58:5:  Warning#216  Interrupts disabled during call to prevent re-entrancy:  (usb_cdc_flush_tx_buffer)
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:58:5:  Warning#216  Interrupts disabled during call to prevent re-entrancy:  (usb_cdc_init)
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:9:6:  Warning#202  Variable never used:   c
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:9:8:  Warning#202  Variable never used:   d
+C:\Users\tyrio\Desktop\TESTMPLABADC\PIC_Firmware\usb_adc_premo.X\newmain.c:10:6:  Warning#202  Variable never used:   a
+      Memory usage:   ROM=19%      RAM=21% - 24%
+      0 Errors,  7 Warnings.
+Build Successful.

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rasp_Codigo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rasp_Codigo_jar</output-path>
+    <root id="archive" name="Rasp_Codigo.jar">
+      <element id="module-output" name="Rasp_Codigo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/RXTXcomm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/rxtx-2.1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
